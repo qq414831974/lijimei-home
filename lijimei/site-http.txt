@@ -3,3 +3,14 @@ http://www.lijimei.fit
 http://www.lijimei.fit/about.html
 http://www.lijimei.fit/sample.html
 http://www.lijimei.fit/index.html
+http://www.lijimei.fit/sample/sample0.html
+http://www.lijimei.fit/sample/sample1.html
+http://www.lijimei.fit/sample/sample2.html
+http://www.lijimei.fit/sample/sample3.html
+http://www.lijimei.fit/sample/sample4.html
+http://www.lijimei.fit/sample/sample5.html
+http://www.lijimei.fit/sample/sample6.html
+http://www.lijimei.fit/sample/sample7.html
+http://www.lijimei.fit/sample/sample8.html
+http://www.lijimei.fit/sample/sample9.html
+http://www.lijimei.fit/sample/sample10.html
